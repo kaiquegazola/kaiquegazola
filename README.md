@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hi there! I'm Kaique Gazola</h1>
-<h3 align="center">Mobile Developer | Flutter</h3>
+<h1 align="center">kaiquegazola </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaique-gazola/">
