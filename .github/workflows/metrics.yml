@@ -22,4 +22,4 @@ jobs:
           plugin_reactions_details: percentage
           plugin_notable: yes
           plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
+          plugin_notable_repositories: no
