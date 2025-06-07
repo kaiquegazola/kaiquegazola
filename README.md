@@ -35,7 +35,7 @@ I'm a mobile developer with 5+ years of experience, focused on building high-per
 [<img align="left" width="40%" alt="🦑" src="https://raw.githubusercontent.com/gist/kaiquegazola/e0beea62232204bc0c22791a8ec63a62/raw/a54c2fbaef96d912952e72bc7524a89d23ab3358/github-metrics.svg">](#)
 
 <p align="right">
-  <img width="50%" src="https://streak-stats.demolab.com?user=kaiquegazola&theme=dark">
+  <img width="50%" src="https://streak-stats.demolab.com?user=kaiquegazola&theme=dark">(#)
 </p>
-<img align="right" width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaiquegazola&theme=dracula&hide_border=true">
+<img align="right" width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaiquegazola&theme=dracula&hide_border=true">(#)
 
