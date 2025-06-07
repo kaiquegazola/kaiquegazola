@@ -12,8 +12,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: kaiquegazola
-          config_output: gist
-          config_gist: e0beea62232204bc0c22791a8ec63a62
+          output_action: gist
+          committer_gist: e0beea62232204bc0c22791a8ec63a62
           base: ""
           plugin_repositories: yes
           plugin_repositories_pinned: 2
