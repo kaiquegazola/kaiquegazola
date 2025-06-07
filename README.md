@@ -22,6 +22,7 @@ I'm a mobile developer with 5+ years of experience, focused on building high-per
 
 - **Flutter (BLoC, MobX, Provider, Clean/Hexagonal Architecture)**
 - **Mobile Security:** DexProtector, SSL Pinning, Secure Storage
+- **CI/CD & Automation:** Fastlane, GitHub Actions
 - **Firebase, REST APIs, Push Notifications**
 - **Backend:** NodeJS, PHP, Java (Spring, Hibernate, JSF)
 - **Databases:** MySQL, PostgreSQL, Hive, Sqflite, Firebase
@@ -31,10 +32,10 @@ I'm a mobile developer with 5+ years of experience, focused on building high-per
 
 📊 **GitHub Stats**
 
+[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/gist/kaiquegazola/e0beea62232204bc0c22791a8ec63a62/raw/a54c2fbaef96d912952e72bc7524a89d23ab3358/github-metrics.svg">](#)
 
-<p align="center">
-<img height="180em" src="https://streak-stats.demolab.com?user=kaiquegazola&theme=dark">
+<p align="right">
+  <img height="180em" src="https://streak-stats.demolab.com?user=kaiquegazola&theme=dark">
 </p>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaiquegazola&theme=dracula&hide_border=true)](https://github.com/kaiquegazola)
+<img align="right" height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=kaiquegazola&theme=dracula&hide_border=true">
 
