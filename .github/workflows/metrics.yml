@@ -15,7 +15,7 @@ jobs:
           user: kaiquegazola
           output_action: gist
           committer_gist: e0beea62232204bc0c22791a8ec63a62
-          base: ""
+          base: header, activity, community, repositories, metadata
           plugin_repositories: yes
           plugin_repositories_pinned: 2
           plugin_reactions: yes
@@ -24,12 +24,13 @@ jobs:
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_repositories: no
+          config_timezone: America/Sao_Paulo
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
-          plugin_activity_visibility: all
+          plugin_activity_visibility: public
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_indepth: yes
@@ -39,6 +40,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
+          plugin_languages_ignored: javascript, html, css
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
